@@ -11,7 +11,7 @@ I am a **Fullstack Developer** with a strong foundation in building responsive a
 
 ## 🛠️ Tech Stack
 - **Front-end:** HTML, CSS, TypeScript, React, Angular, CSS
-- **Back-end:** Nestjs, NodeJs Spring boot
+- **Back-end:** Nestjs, NodeJs, Spring boot, Java
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Docker, Git, GitHub Actions, AWS
 - **Other Skills:** REST APIs, Azure
@@ -20,8 +20,8 @@ I am a **Fullstack Developer** with a strong foundation in building responsive a
 Check out my work at: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 📫 **Let's connect!**
-- LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/rouchdane-moudjibou/)]
-- Email: [your.email@example.com](moudjibourouchdan80@gmail.com)
+- LinkedIn: [[[Your LinkedIn](https://www.linkedin.com/in/rouchdane-moudjibou/)]]
+- Email: [moudjibourouchdan80@gmail.com](moudjibourouchdan80@gmail.com)
 
 🌟 Feel free reaching out for collaboration!
 
