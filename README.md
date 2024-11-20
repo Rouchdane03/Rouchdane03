@@ -1,7 +1,5 @@
 # 👋 Hello, I'm Rouchdane!
 
-![Header Image](https://your-image-link.com/header.png)
-
 🎯 Fullstack Developer | 🌐 Passionate about Web Development | 🚀 Open Source Enthusiast
 
 ## About Me
