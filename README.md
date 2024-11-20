@@ -20,7 +20,7 @@ I am a **Fullstack Developer** with a strong foundation in building responsive a
 Check out my work at: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 📫 **Let's connect!**
-- LinkedIn: [[[Your LinkedIn](https://www.linkedin.com/in/rouchdane-moudjibou/)]]
+- LinkedIn: (https://www.linkedin.com/in/rouchdane-moudjibou/)
 - Email: [moudjibourouchdan80@gmail.com](moudjibourouchdan80@gmail.com)
 
 🌟 Feel free reaching out for collaboration!
