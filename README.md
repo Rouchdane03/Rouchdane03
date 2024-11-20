@@ -5,8 +5,8 @@
 ## About Me
 I am a **Fullstack Developer** with a strong foundation in building responsive and scalable web applications. I enjoy working on both **front-end** and **back-end** projects, transforming ideas into reality with clean, efficient, and reusable code.
 
-- 🔭 Currently working on: [my portfolio]
-- 🌱 Learning: [React]
+- 🔭 Currently working on: my portfolio
+- 🌱 Learning: React
 - 💬 Ask me about: TypeScript, Angular, Node.js, Java, Spring boot, CI/CD, AWS
 
 ## 🛠️ Tech Stack
@@ -21,7 +21,7 @@ Check out my work at: [your-portfolio-link.com](https://your-portfolio-link.com)
 
 📫 **Let's connect!**
 - LinkedIn: [[Your LinkedIn](https://www.linkedin.com/in/rouchdane-moudjibou/)]
-- Email: [your.email@example.com](mailto:moudjibourouchdan80@gmail.com)
+- Email: [your.email@example.com](moudjibourouchdan80@gmail.com)
 
 🌟 Feel free reaching out for collaboration!
 
