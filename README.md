@@ -1,4 +1,4 @@
-<img src="IMG_8671.jpeg" alt="Welcome Banner" width="100%" />
+<img src="IMG_8671.jpeg" alt="Welcome Banner" width="50%" />
 
 # 👋 Hello, I'm Rouchdane!
 
