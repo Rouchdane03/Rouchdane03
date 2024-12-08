@@ -1,6 +1,6 @@
 <img src="Capture%20d’écran%202024-12-08%20à%2015.10.59.png" alt="Welcome Banner" width="100%" height="500px" />
 
-# 👋 Hello, I'm Rouchdane!
+# 👋🏾 Hello, I'm Rouchdane!
 
 🎯 Fullstack Developer | 🌐 Passionate about Web Development | 🚀 Open Source Enthusiast
 
