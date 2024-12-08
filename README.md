@@ -1,3 +1,5 @@
+<img src="IMG_8671.jpeg" alt="Welcome Banner" width="100%" />
+
 # 👋 Hello, I'm Rouchdane!
 
 🎯 Fullstack Developer | 🌐 Passionate about Web Development | 🚀 Open Source Enthusiast
