@@ -12,7 +12,7 @@ I am a **Fullstack Developer** with a strong foundation in building responsive a
 - 💬 Ask me about: TypeScript, Angular, Node.js, Java, Spring boot, CI/CD, AWS
 
 ## 🛠️ Tech Stack
-- **Front-end:** HTML, CSS, TypeScript, React, Angular, CSS
+- **Front-end:** HTML, CSS, TypeScript, React, Angular
 - **Back-end:** Nestjs, NodeJs, Spring boot, Java
 - **Databases:** PostgreSQL, MongoDB
 - **DevOps & Tools:** Docker, Git, GitHub Actions, AWS
