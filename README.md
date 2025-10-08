@@ -19,7 +19,7 @@ I am a **Fullstack Developer** with a strong foundation in building responsive a
 - **Other Skills:** REST APIs, Azure
 
 ## 💼 Portfolio
-Check out my work at: [https://front-react-project-customer.vercel.app/](https://rouch-portfolio.vercel.app/)
+Check out my work at: https://rouch-portfolio.vercel.app/
 
 📫 **Let's connect!**
 - LinkedIn: https://www.linkedin.com/in/rouchdane-moudjibou/
